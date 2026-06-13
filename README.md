@@ -1,6 +1,6 @@
 # Matthew Mettler
 
-I am a Ph.D. candidate in Political Science at the University of Illinois Urbana-Champaign. My research focuses on American political behavior, public opinion, misinformation, democratic accountability, and political methodology.
+I am a Ph.D. candidate in Political Science at the University of Illinois Urbana Champaign. My research focuses on American political behavior, public opinion, misinformation, democratic accountability, and political methodology.
 
 This GitHub profile hosts replication materials, analysis scripts, and project documentation for my research.
 
